@@ -385,7 +385,7 @@ Featured Tours
 .tour-btn {
   text-align: center;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 800px) {
   .featured-center {
     display: grid;
     grid-template-columns: 1fr 1fr;
