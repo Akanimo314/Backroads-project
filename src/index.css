@@ -392,7 +392,7 @@ Featured Tours
     gap: 2rem;
   }
 }
-@media screen and (min-width: 1170px) {
+@media screen and (min-width: 1100px) {
   .featured-center {
     grid-template-columns: 1fr 1fr 1fr;
   }
