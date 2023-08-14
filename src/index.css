@@ -394,9 +394,10 @@ Featured Tours
 }
 @media screen and (min-width: 1100px) {
   .featured-center {
-    grid-template-columns: 1fr 1fr 1fr;
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    grid-template-columns: repeat(3, 1fr);
   }
-}
+} 
 
 /*
 =============== 
